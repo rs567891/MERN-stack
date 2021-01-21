@@ -11,7 +11,7 @@ const Blog = () => {
           <div className="col">
         <div class="card w-75">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Python Blog</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
     <a href="#" className="btn btn-primary ml-1">See how it works</a>
   </div>
@@ -22,7 +22,7 @@ const Blog = () => {
 <div className="col">
 <div class="card w-75">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Nodejs Blog</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
     <a href="#" class="btn btn-primary ml-1">See how it works</a>
   </div>
@@ -34,7 +34,7 @@ const Blog = () => {
 
 <div class="card w-75">
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
+    <h5 class="card-title">Java Blog</h5>
     <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
     <a href="#" class="btn btn-primary ml-1">See how it works</a>
   </div>
